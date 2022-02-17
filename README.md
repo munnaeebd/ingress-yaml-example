@@ -24,7 +24,7 @@ spec:
 
 ```
 
-nginx:
+## nginx:
 
 ~~~
 apiVersion: networking.k8s.io/v1
